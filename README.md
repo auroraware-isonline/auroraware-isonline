@@ -2,3 +2,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroraware-isonline)](https://github.com/anuraghazra/github-readme-stats)
+
+senior coder, coding for fun 
